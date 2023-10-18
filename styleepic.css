@@ -1,0 +1,617 @@
+*{
+    color:white;
+    margin:0;
+   
+}
+
+
+#headtab{
+    width: 90%;
+    height:50px;
+    background:rgb(63, 63, 63);
+    padding-bottom: 5px;
+    float: left;
+    
+    
+
+}
+#headlogo{
+    width: 30px;
+    margin-left:10px ;
+}
+.heada{
+    font-family: OpenSans,sans-serif,arial;
+    text-transform: uppercase;
+    text-decoration:none;
+    font-size: 10px;
+    letter-spacing: 0.55mm;
+    margin-left: 30px;
+    
+}
+#verline{
+padding-left: 10px;
+  font-size:90;
+  font-family:OpenSans,sans-serif,arial;
+}
+
+    
+
+#headtabsec{
+    width:10%;
+    height:55px;
+    background:rgb(7, 135, 234);
+    float: right;
+}
+
+.headaa{
+    font-family: OpenSans,sans-serif,arial;
+    text-transform: uppercase;
+    text-decoration:none;
+    font-size: 10px;
+    letter-spacing: 0.55mm;
+  
+
+   
+    
+}
+.sidebody{
+    width:130px ;
+    height:3772px ;
+    background:rgb(27, 27, 27);
+    padding-left: 20px;
+    padding-top: 20px;
+    float: left;
+    
+}.tabtwo{
+    width:1322px;
+    height: 70px;
+    background:rgb(27, 27, 27);
+    float: left;
+    margin: 0;
+    padding-top: 50px;
+    
+    
+    
+}
+.searchbar{
+    font-family:Inter,sans-serif ;
+    height:70px;
+    width:200px ;
+    padding-left: 20px;
+    display: block;
+    float: left;
+    cursor: pointer;
+    color: #fff;
+}
+.headdown{
+    text-decoration:none;
+    font-size: 17px;
+    letter-spacing:0.55mm;
+    font-family:Inter,sans-serif;
+    margin-left: 20px;
+}
+
+#mainpos{
+    width:952px;
+    height: 530px;
+    background:rgb(0, 0, 0) ;
+    float: left;
+    border-radius: 50px;
+}
+.rightside{
+    width:370px;
+    height:530px;
+    background:rgb(27, 27, 27);
+    float:right;
+}
+
+
+.outerimg{
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.innerimg{
+    width: 300px;
+    height: auto;
+    position:absolute;
+    left: 250px;
+    top: 190px;
+    cursor: pointer;
+
+
+}   
+.picturetext{
+    width: 300px;
+    height: 300px;;
+    position:absolute;
+    top:400px;
+    left: 275px;
+    color:#fff;
+    padding-left: 10px;
+    cursor: pointer;
+    
+}
+#nowav{
+    font-family: OpenSans,sans-serif,arial ;
+    font-weight: 600;
+    margin-bottom: 10px;
+    
+    
+}
+#titlepara{
+    font-family: cursive;;
+    letter-spacing:0.15mm;
+    font-weight:500;
+    font-size: large;
+}
+#price{
+    margin-top: 40px;
+    font-family: Inter, sans-serif;
+    font-size:medium;
+    letter-spacing:0.015mm;
+    font-weight: lighter;;
+
+}
+#mainbut{
+    border-radius: 20px;
+    width: 130px;
+    height:47px;
+    color: rgb(27, 27, 27);
+    background: white;
+    cursor: pointer;
+    margin-top: 10px;;
+}
+#mainwhite{
+    text-decoration: none;
+    size: 40px;
+    font-family:OpenSans,sans-serif,arial ;
+}
+.divone{
+    width: 200px;
+    height: 100px;
+    background: rgb(27, 27, 27);
+    margin-left: 20px;
+    padding-top: 15px;
+    float:left;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.sideimgclass{
+    width: 70px;
+    height:80px;
+
+
+}
+.gamediv{
+    width: 120px;
+    height: 80px;
+    background: rgb(27, 27, 27);
+    float:right;
+    padding-left: 5px;
+
+
+}
+.subtext{
+    color: rgb(255, 255, 255);
+    font-family:Inter, sans-serif ;
+    font-size: 16px;
+    
+}
+.divtwo{
+
+    margin-left: 20px;
+    width: 200px;
+    height: 100px;
+    background: rgb(27, 27, 27);
+    padding-top: 15px;
+    float:left;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 5px;
+    
+    
+   
+}.gamedivtwo{
+    width: 120px;
+    height: 80px;
+    background: rgb(27, 27, 27);
+    float:right;
+    padding-left: 5px;
+}
+.divthree{
+    width: 200px;
+    height: 100px;
+    background: rgb(27, 27, 27);
+    margin-left: 20px;
+    padding-top: 15px;
+    float:left;
+    cursor: pointer;
+    border-radius: 10px;
+     margin-top: 5px;
+
+}
+.gamedivthree{
+    width: 120px;
+    height: 80px;
+    background: rgb(27, 27, 27);
+    float:right;
+    padding-left: 5px;
+}
+.divefour{
+    width: 200px;
+    height: 100px;
+    background: rgb(27, 27, 27);
+    margin-left: 20px;
+    padding-top: 15px;
+    float:left;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.gamedivfour{
+    width: 120px;
+    height: 80px;
+    background: rgb(27, 27, 27);
+    float:right;
+    padding-left: 5px;
+    cursor: pointer;
+}
+#rightover{
+    width:145px ;
+    height:3142px ;
+    background:rgb(27, 27, 27);
+    float:right; 
+    cursor: pointer;
+}
+.gameonsalehead{
+    background:rgb(27, 27, 27);
+    width: 1177px;
+    height: 60px;
+    float: left;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+
+
+}
+
+#gamesale{
+    font-size: 25px;
+    color: #fff;
+    margin-left: 30px;
+    font-family:Helvetica;
+    margin-top: 20px;
+    display: block;
+
+}
+.salegames{
+    width: 1177px;
+    height: 360px;
+    background: rgb(27, 27, 27);
+    float:right;
+    cursor: pointer;
+    
+
+}
+.saleone{
+    width: 210px;
+    height: 360px;
+    background:rgb(27, 27, 27) ;
+    margin-left: 10px;
+    float: left;
+    padding-left: 5px;
+    cursor: pointer;
+
+}
+.saleimg{
+    width:200px;
+    height:250px ;
+}
+.basegame{
+    font-family: OpenSans,sans-serif,arial ;
+    font-size: 9px;
+    margin-top: 4px;;
+
+}
+.salegmname{
+    font-family:Inter,sans-serif ;
+    margin-top: 5px;
+    letter-spacing: 0.20px;
+}
+.saleoff{
+    width: 70px;
+    height: 40px;
+    color: #fff;
+    margin-top: 10px;
+    background: rgb(5, 172, 239);
+    display: inline-block;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.gameprice{
+    font-family:Inter,sans-serif ;
+     font-size: larger;
+    color: #fff;
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    letter-spacing: 0.15mm;
+
+    
+}
+.hotgameone{
+    margin-top: 10px;
+    width: 589px;
+    height: 400px;
+    background-color: rgb(27, 27, 27);
+    float: left;
+    cursor: pointer;
+    
+}
+.hotgametwo{
+    margin-top: 10px;
+    width: 588px;
+    height: 400px;
+    background:rgb(27, 27, 27);
+    float: right;
+    cursor: pointer;
+}
+.hotgmimg{
+    width: 520px;
+    height: 260px;
+    display: block;
+    border-radius: 20px;
+    margin-left: 20px;
+
+    
+}
+.hotcontent{
+    width:  565px;
+    height: 119px;
+    float: left;
+    background :rgb(27, 27, 27);
+    padding-top: 20px; padding-left: 10px;
+}
+
+.hotcontenttwo{
+    width:  560px;
+    height: 140px;
+    float: left;
+    background:rgb(27, 27, 27);
+}
+.hottext{
+    font-family: Inter,sans-serif;
+    font-weight:lighter;
+    font-size: larger;
+    
+}
+.hotpara{
+    font-family:Inter,sans-serif ;
+    font-size: medium;
+    margin-top: 10px;
+}
+.gamepricetwo{
+    font-family:Inter,sans-serif ;
+    font-size: larger;
+   color: #fff;
+   margin-top: 19px;
+}
+.block{
+    width: 392px;
+    height: 900px;
+    background: rgb(27, 27, 27);
+    float: left;
+    cursor: pointer;
+    border-radius: 20px;
+    
+}
+.blocktwo{
+    width: 392px;
+    height: 900px;
+    background: rgb(27, 27, 27);
+    float: left;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.blockthree{
+    width: 393px;
+    height: 900px;
+    background: rgb(27, 27, 27);
+    float: left;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.blockheadtxt{
+    font-family: Inter,sans-serif;
+    font-size: large;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.blockgame{
+    width: 390px;
+    height: 120px;
+    background: rgb(27, 27, 27);
+    display: block;
+    float: left;
+    margin-top: 20px;
+
+}
+.blockimg{
+    width: 90px;
+    height: auto;
+    margin-left: 10px;
+    float: left;
+    border-radius: 10px;
+
+
+}
+.blockgmtxt{
+    width: 290px;
+    height: 120px;
+    background: rgb(27, 27, 27) ;
+    float: left;
+    font-weight: 400;
+}
+.blockpar{
+    font-family:Inter,sans-serif ;
+    font-size: larger;
+    
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.blockgmprice{
+    font-family:Inter,sans-serif  ;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: large;
+
+}
+.availabletime{
+    font-family:Inter,sans-serif ;
+    font-size: larger;
+    color: rgb(104, 104, 104);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.extra{
+    float: right;
+    width: 1177px;
+    height: 1px;
+    background: #fff;
+
+}
+.footer{
+    width:1177px;
+    height: 521px;
+    background: rgb(59, 59, 59);
+    float: right;
+    position: relative;
+    cursor: pointer;
+}
+
+    
+
+.logo{
+    float: left;
+    width: 1167px;
+    height: 91px;
+    background: rgb(59, 59, 59);
+    margin-left: 10px;
+    margin-top: 10px;
+    
+
+}
+
+
+.logotxt{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.disone{
+    width: 223px;
+    height: 155px;
+    background: rgb(59, 59, 59);
+    margin-top: 100px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.disonetxt{
+    font-family: Inter,sans-serif;
+    color: white;
+    font-size: medium;
+    margin-top: 10px;
+}
+.disonetxt:hover{
+    color: rgb(6, 180, 244); ;
+}
+.distwo{
+    width: 220px;
+    height: 128px;
+    background: rgb(59, 59, 59);
+    margin-top: -164px;
+    margin-right: 705px;
+    padding-top: 36px;
+    padding-left: 10px;
+    float: right;
+}
+.disthree{
+    width: 220px;
+    height: 128px;
+    background:rgb(59, 59, 59);
+    float: right;
+    margin-right: 470px;
+    margin-top: -164px;
+    padding-top: 36px;
+    padding-left: 10px;
+    
+
+    
+}
+.end{
+    width: 1177px;
+    height: 210px;
+    background: rgb(59, 59, 59);
+    margin-top: 20px;
+
+}
+.copyright{
+    float: left;
+    background: rgb(59, 59, 59);
+    width: 940px;
+    height: 100px;
+
+}
+.copytxt{
+    font-family: Inter,sans-serif;
+    font-size: small;
+    color: white;
+    line-height: 160%;
+    margin-top: 5px;
+}
+
+.policy{
+    width: 520px;
+    height: 100px;
+    background:rgb(59, 59, 59);
+    
+    margin-left: 10px;
+
+}
+.copytxtone{
+    font-family: Inter,sans-serif;
+    font-size: small;
+    color: white;
+    line-height: 160%;
+    margin-top: 5px;
+}
+.copytxtone:hover{color: rgb(6, 180, 244);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
